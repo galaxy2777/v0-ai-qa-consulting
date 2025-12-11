@@ -1,0 +1,8 @@
+/node_modules
+/.next
+*.env
+.idea # Pentru a ignora setările WebStorm
+/node_modules
+/.next
+*.env
+.idea
